@@ -24,7 +24,7 @@ To give an overview of the installation process the different steps are listed b
 * Download and install a java runtime environment 6 (JRE) or java development kit 6 (JDK) on the slaves.
 
 `
-You can get sun's JDK here: http://java.sun.com/j2se/downloads.html
+You can get sun's JDK here: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 If you want to utilize blowfish in your environment also download Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 6.
 You will need to manually replace the files local_policy.jar and US_export_policy.jar in your java/jre/lib/security folder.
