@@ -1,0 +1,237 @@
+FATAL  | wrapper  | 2012/01/24 18:53:25 | Unable to open wrapper configuration file: conf/wrapper-master.conf
+STATUS | wrapper  | 2012/01/24 18:53:56 | --> Wrapper Started as Console
+STATUS | wrapper  | 2012/01/24 18:53:56 | Launching a JVM...
+INFO   | jvm 1    | 2012/01/24 18:53:57 | WrapperSimpleApp: Unable to locate the class org.drftpd.master.ConnectionManager: java.lang.ClassNotFoundException: org.drftpd.master.ConnectionManager
+INFO   | jvm 1    | 2012/01/24 18:53:57 | 
+INFO   | jvm 1    | 2012/01/24 18:53:57 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2012/01/24 18:53:57 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_parameters]
+INFO   | jvm 1    | 2012/01/24 18:53:57 | 
+INFO   | jvm 1    | 2012/01/24 18:53:57 | Where:
+INFO   | jvm 1    | 2012/01/24 18:53:57 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2012/01/24 18:53:57 |   app_parameters: The parameters that would normally be passed to the
+INFO   | jvm 1    | 2012/01/24 18:53:57 |                   application.
+INFO   | jvm 1    | 2012/01/24 18:53:57 | 
+INFO   | jvm 1    | 2012/01/24 18:53:57 | WARNING - Unable to load the Wrapper's native library 'libwrapper.so'.
+INFO   | jvm 1    | 2012/01/24 18:53:57 |           The file is located on the path at the following location but
+INFO   | jvm 1    | 2012/01/24 18:53:57 |           could not be loaded:
+INFO   | jvm 1    | 2012/01/24 18:53:57 |             /home/g2x3k/drftpd/lib/libwrapper.so
+INFO   | jvm 1    | 2012/01/24 18:53:57 |           Please verify that the file is readable by the current user
+INFO   | jvm 1    | 2012/01/24 18:53:57 |           and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2012/01/24 18:53:57 |           System signals will not be handled correctly.
+INFO   | jvm 1    | 2012/01/24 18:53:57 | 
+STATUS | wrapper  | 2012/01/24 18:53:58 | <-- Wrapper Stopped
+STATUS | wrapper  | 2012/01/24 19:04:12 | --> Wrapper Started as Console
+STATUS | wrapper  | 2012/01/24 19:04:12 | Launching a JVM...
+INFO   | jvm 1    | 2012/01/24 19:04:12 | WrapperSimpleApp: Unable to locate the class org.drftpd.master.ConnectionManager: java.lang.ClassNotFoundException: org.drftpd.master.ConnectionManager
+INFO   | jvm 1    | 2012/01/24 19:04:12 | 
+INFO   | jvm 1    | 2012/01/24 19:04:12 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2012/01/24 19:04:12 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_parameters]
+INFO   | jvm 1    | 2012/01/24 19:04:12 | 
+INFO   | jvm 1    | 2012/01/24 19:04:12 | Where:
+INFO   | jvm 1    | 2012/01/24 19:04:12 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2012/01/24 19:04:12 |   app_parameters: The parameters that would normally be passed to the
+INFO   | jvm 1    | 2012/01/24 19:04:12 |                   application.
+INFO   | jvm 1    | 2012/01/24 19:04:12 | 
+INFO   | jvm 1    | 2012/01/24 19:04:12 | WARNING - Unable to load the Wrapper's native library 'libwrapper.so'.
+INFO   | jvm 1    | 2012/01/24 19:04:12 |           The file is located on the path at the following location but
+INFO   | jvm 1    | 2012/01/24 19:04:12 |           could not be loaded:
+INFO   | jvm 1    | 2012/01/24 19:04:12 |             /home/g2x3k/drftpd/lib/libwrapper.so
+INFO   | jvm 1    | 2012/01/24 19:04:12 |           Please verify that the file is readable by the current user
+INFO   | jvm 1    | 2012/01/24 19:04:12 |           and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2012/01/24 19:04:12 |           System signals will not be handled correctly.
+INFO   | jvm 1    | 2012/01/24 19:04:12 | 
+STATUS | wrapper  | 2012/01/24 19:04:13 | <-- Wrapper Stopped
+STATUS | wrapper  | 2012/01/24 19:06:54 | --> Wrapper Started as Console
+STATUS | wrapper  | 2012/01/24 19:06:55 | Launching a JVM...
+INFO   | jvm 1    | 2012/01/24 19:06:55 | WrapperSimpleApp: Unable to locate the class org.drftpd.master.ConnectionManager: java.lang.ClassNotFoundException: org.drftpd.master.ConnectionManager
+INFO   | jvm 1    | 2012/01/24 19:06:55 | 
+INFO   | jvm 1    | 2012/01/24 19:06:55 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2012/01/24 19:06:55 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_parameters]
+INFO   | jvm 1    | 2012/01/24 19:06:55 | 
+INFO   | jvm 1    | 2012/01/24 19:06:55 | Where:
+INFO   | jvm 1    | 2012/01/24 19:06:55 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2012/01/24 19:06:55 |   app_parameters: The parameters that would normally be passed to the
+INFO   | jvm 1    | 2012/01/24 19:06:55 |                   application.
+INFO   | jvm 1    | 2012/01/24 19:06:55 | 
+INFO   | jvm 1    | 2012/01/24 19:06:55 | WARNING - Unable to load the Wrapper's native library 'libwrapper.so'.
+INFO   | jvm 1    | 2012/01/24 19:06:55 |           The file is located on the path at the following location but
+INFO   | jvm 1    | 2012/01/24 19:06:55 |           could not be loaded:
+INFO   | jvm 1    | 2012/01/24 19:06:55 |             /home/g2x3k/drftpd/lib/libwrapper.so
+INFO   | jvm 1    | 2012/01/24 19:06:55 |           Please verify that the file is readable by the current user
+INFO   | jvm 1    | 2012/01/24 19:06:55 |           and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2012/01/24 19:06:55 |           System signals will not be handled correctly.
+INFO   | jvm 1    | 2012/01/24 19:06:55 | 
+STATUS | wrapper  | 2012/01/24 19:06:56 | <-- Wrapper Stopped
+STATUS | wrapper  | 2012/01/24 19:09:58 | --> Wrapper Started as Console
+STATUS | wrapper  | 2012/01/24 19:09:58 | Launching a JVM...
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/drftpd.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.DailyRollingFileAppender.activateOptions(DailyRollingFileAppender.java:206)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.configureRootCategory(PropertyConfigurator.java:500)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:406)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR Either File or DatePattern options are not set for appender [root].
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/mirroring.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/debug.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/slave.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/filelist.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/sysop.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | log4j:ERROR setFile(null,true) call failed.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | java.io.FileNotFoundException: logs/trial.log (No such file or directory)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.openAppend(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.io.FileOutputStream.<init>(FileOutputStream.java:131)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:432)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:460)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.LogManager.<clinit>(LogManager.java:113)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.apache.log4j.Logger.getLogger(Logger.java:85)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.drftpd.master.ConnectionManager.<clinit>(ConnectionManager.java:60)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName0(Native Method)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at java.lang.Class.forName(Class.java:186)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.main(WrapperSimpleApp.java:334)
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 
+INFO   | jvm 1    | 2012/01/24 19:09:59 | WARNING - Unable to load the Wrapper's native library 'libwrapper.so'.
+INFO   | jvm 1    | 2012/01/24 19:09:59 |           The file is located on the path at the following location but
+INFO   | jvm 1    | 2012/01/24 19:09:59 |           could not be loaded:
+INFO   | jvm 1    | 2012/01/24 19:09:59 |             /home/g2x3k/drftpd/lib/libwrapper.so
+INFO   | jvm 1    | 2012/01/24 19:09:59 |           Please verify that the file is readable by the current user
+INFO   | jvm 1    | 2012/01/24 19:09:59 |           and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2012/01/24 19:09:59 |           System signals will not be handled correctly.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 
+INFO   | jvm 1    | 2012/01/24 19:09:59 | Wrapper (Version 3.1.2) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2012/01/24 19:09:59 | 
+INFO   | jvm 1    | 2012/01/24 19:09:59 | DrFTPD+ 2.0 (+STABLE+) $Revision: 1761 $ master server starting.
+INFO   | jvm 1    | 2012/01/24 19:09:59 | http://drftpd.org/
+INFO   | jvm 1    | 2012/01/24 19:09:59 | Further logging will be done using (mostly) log4j, check logs/
+STATUS | wrapper  | 2012/01/24 19:10:01 | <-- Wrapper Stopped

@@ -1,0 +1,7 @@
+Everything older then 15 MiNS goes to /BACKFiLL/ 
+All new release goes to /ADD/
+
+Upload rlses as /[ADD|BACKFiLL]/Rlsname.tags-GRP
+
+then files will get properly added to db
+if you wanna double check you can see #pre.priv.

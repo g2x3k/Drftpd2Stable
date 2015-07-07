@@ -1,0 +1,1 @@
+IP: layer13.it.cx PORT: 3337 (USE AUTH SSL)

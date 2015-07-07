@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_35" class="java.beans.XMLDecoder">
+ <object class="org.drftpd.usermanager.javabeans.BeanUser">
+  <string>drftpd</string>
+  <void property="credits">
+   <long>15000000</long>
+  </void>
+  <void property="group">
+   <string>siteop</string>
+  </void>
+  <void property="hostMaskCollection">
+   <void method="add">
+    <object class="org.drftpd.usermanager.HostMask">
+     <string>*@127.0.0.1</string>
+    </object>
+   </void>
+  </void>
+  <void property="idleTime">
+   <int>300</int>
+  </void>
+  <void property="keyedMap">
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>maxsimup</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>2</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>maxratio</string>
+     <class>java.lang.Float</class>
+    </object>
+    <float>3.0</float>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>groupslots</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>0</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>minratio</string>
+     <class>java.lang.Float</class>
+    </object>
+    <float>3.0</float>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.Nuke</class>
+     <string>nukedBytes</string>
+     <class>java.lang.Long</class>
+    </object>
+    <long>0</long>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>maxsimdn</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>2</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>maxloginsip</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>2</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>ircident</string>
+     <class>java.lang.String</class>
+    </object>
+    <string>N/A</string>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>ratio</string>
+     <class>java.lang.Float</class>
+    </object>
+    <float>3.0</float>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>maxlogins</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>2</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>comment</string>
+     <class>java.lang.String</class>
+    </object>
+    <string>Added by Cleaner</string>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.plugins.Statistics</class>
+     <string>logins</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>0</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>lastseen</string>
+     <class>java.util.Date</class>
+    </object>
+    <object class="java.util.Date">
+     <long>1436285053523</long>
+    </object>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>leechslots</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>0</int>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>created</string>
+     <class>java.util.Date</class>
+    </object>
+    <object class="java.util.Date">
+     <long>1436285053523</long>
+    </object>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>wkly_allotment</string>
+     <class>java.lang.Long</class>
+    </object>
+    <long>0</long>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.UserManagement</class>
+     <string>ban_time</string>
+     <class>java.util.Date</class>
+    </object>
+    <object class="java.util.Date">
+     <long>1436285053523</long>
+    </object>
+   </void>
+   <void method="put">
+    <object class="org.drftpd.dynamicdata.Key">
+     <class>org.drftpd.commands.Nuke</class>
+     <string>nuked</string>
+     <class>java.lang.Integer</class>
+    </object>
+    <int>0</int>
+   </void>
+  </void>
+  <void property="password">
+   <string>$1$sGx5Dmwl$LibsZFv.XtHKO3H2C1EOu/</string>
+  </void>
+ </object>
+</java>
