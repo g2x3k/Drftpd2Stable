@@ -47,13 +47,13 @@ You can find the installation documentation here: http://ant.apache.org/manual/i
   * Windows:"echo %ANT_HOME%"
   * NiX: "echo $ANT_HOME"
   
-# Downloading
+# Download & compile
 
 ```
 git clone git@github.com:g2x3k/Drftpd2Stable.git
 cd Drftpd2Stable
 ./genkey.sh
-./build.sh
+ant
 ```
 
 edit conf/* accordingly and launch your ftpd ...
