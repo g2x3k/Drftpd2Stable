@@ -363,7 +363,7 @@ public class SiteBot extends FtpListener implements Observer {
         if (direvent.getDirectory().isDeleted()) { return; }
 
 	// ANNOUNCE SPEEDTEST
-   	if (direvent.getDirectory().getPath().contains("/URSPEEDDIR/")) {
+   	if (direvent.getDirectory().getPath().contains("/SPEEDTEST/")) {
       	Ret ret = getPropertyFileSuffix("store.speedtest", direvent.getDirectory()); 
       	fillEnvSection(env, direvent, ret.getSection()); 
       	try {
