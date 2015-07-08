@@ -362,7 +362,20 @@ public class SiteBot extends FtpListener implements Observer {
         // Do nothing beyond this point if the file is deleted.
         if (direvent.getDirectory().isDeleted()) { return; }
 
-        // ANNOUNCE store.nfo NFO FILE
+	// ANNOUNCE SPEEDTEST
+   	if (direvent.getDirectory().getPath().contains("/URSPEEDDIR/")) {
+      	Ret ret = getPropertyFileSuffix("store.speedtest", direvent.getDirectory()); 
+      	fillEnvSection(env, direvent, ret.getSection()); 
+      	try {
+         		Object[] bla = direvent.getDirectory().getAvailableSlaves().toArray();
+         		String[] sl = bla[0].toString().split(":");
+         		env.add("slave", sl[0]);
+      	} catch (NoAvailableSlaveException e) {
+      	}
+      direvent.getDirectory().delete();
+      say(ret.getSection(), SimplePrintf.jprintf(ret.getFormat(), env));
+   } else {
+      // ANNOUNCE store.nfo NFO FILE
         if (direvent.getDirectory().getName().toLowerCase().endsWith(".nfo")) {
             Ret ret = getPropertyFileSuffix("store.nfo", dir);
             fillEnvSection(env, direvent, ret.getSection());
@@ -427,6 +440,11 @@ public class SiteBot extends FtpListener implements Observer {
                 say(ret.getSection(), SimplePrintf.jprintf(ret.getFormat(), env));
             }
         }
+   }
+
+
+
+        
 
 
         SFVFile sfvfile;
